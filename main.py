@@ -1,10 +1,7 @@
-# Revision 0.5 21.08.2023
+# Revision 0.51 31.10.2023
 
-# Fixing the countdown to 8 hours: I'll modify the logic to make sure it displays the correct countdown.
-# Displaying the total worked time after 8 hours: I'll modify the code to show the total worked time once it crosses 8 hours.
-# Saving data as CSV: I'll include code to save the work data to a CSV file every 10 minutes.
-# Including detailed information in the report: I'll add the start and end times, duration, and other details in the report.
-# adjusted Report
+# added todos for translation in a modularized codebase
+# goal is to make feature additions more easy and improve usability
 
 # todo: modularize the functions
     # todo: data (class)
