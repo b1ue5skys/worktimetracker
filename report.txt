@@ -1,0 +1,13 @@
+Reference: test, Start: 2023-11-01 22:18:36, End: 2023-11-01 22:18:40, Duration: 0:00:04.232944, Task: 
+Reference: asdasd, Start: 2023-11-01 22:18:51, End: 2023-11-01 22:18:55, Duration: 0:00:04.051901, Task: t
+Reference: asdasd, Start: 2023-11-01 22:18:59, End: 2023-11-01 22:31:16, Duration: 0:12:17.219875, Task: asd
+Reference: abc, Start: 2023-11-01 22:31:27, End: Ongoing, Duration: Ongoing, Task: ddd
+
+Summary:
+Reference: test, Total Duration: 0:00:04.232944
+  Task: 
+Reference: asdasd, Total Duration: 0:12:21.271776
+  Task: t
+  Task: asd
+Reference: abc, Total Duration: 0:00:00
+  Task: ddd
